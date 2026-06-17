@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: nginx:1.28.3
+        image: 841229410409.dkr.ecr.ap-south-1.amazonaws.com/demo:7
